@@ -1,0 +1,21 @@
+table{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Helvetica, sans-serif;
+    border-width:1px;
+    border-style:solid;
+    border-color: #ff0f6b;
+}
+th{
+    font-weight: 800;
+    background-color: #6b16db ;
+    color: white;
+}
+
+h1{
+    color : rgb(252, 166, 7);
+    font-family: fantasy;
+}
+
+h2{ 
+    color:#08fa28  ;
+    font-family: fantasy;
+}
